@@ -15,10 +15,13 @@ export class HomepageComponent implements OnInit {
         {
             data: [] as any,
             backgroundColor: [
-                '#ffcd56',
-                '#ff6384',
-                '#36a2eb',
-                '#fd6b19',
+              '#ffcd56',
+              '#ff6384',
+              '#36a2eb',
+              '#fd6b19',
+              '#4bc0c0',
+              '#9966ff',
+              '#c9cbcf'
             ]
         }
     ],
